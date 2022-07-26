@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088512247669",
+    "project_id": "firebasse-baruu",
+    "storage_bucket": "firebasse-baruu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088512247669:android:78d470d49019804537b53c",
+        "android_client_info": {
+          "package_name": "com.example.sewarumah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088512247669-8gm4rjdcjl5r6q2g74gamadnad2itvlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCABySaWzbmYDBRXF1LwI2Ze4q6OrRwbtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088512247669-8gm4rjdcjl5r6q2g74gamadnad2itvlf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
